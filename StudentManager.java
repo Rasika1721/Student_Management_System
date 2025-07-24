@@ -54,7 +54,7 @@ public class StudentManager {
             }
         }
 
-        System.out.println("Topper:");
+        System.out.println("Topper is:");
         topper.display();
 
         scanner.close();
