@@ -59,7 +59,7 @@ public class StudentManager {
         topper.display();
         
 
-        scanner.close();
+        scanner.clse();
     }
 }
 
